@@ -1,6 +1,6 @@
 # darlingmarket
 
-> A Vue.js project
+> 这是一个基于vue，node的前后端的商城项目
 
 ## Build Setup
 
