@@ -22,11 +22,8 @@ node www
 # 启动数据库
 mongod
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
+###数据库源文件
+[数据库](https://pan.baidu.com/s/1hfQfC_cJWCCViA2xMdacoA)
+**提取码：z9gw**
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
