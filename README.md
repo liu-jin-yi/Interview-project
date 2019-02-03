@@ -1,6 +1,8 @@
 # darlingmarket
 
 > 这是一个基于vue，node的前后端的商城项目
+## 说明
+**这是一个前后端分离的项目，我把后端的项目统一放在了server文件夹里面**
 
 ## Build Setup
 
