@@ -1,0 +1,83 @@
+.head {
+    height: 100px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 20px;
+
+}
+.logo {
+    width: 143px;
+    height: 60px;
+    float: left;
+}
+.logo a {
+    width: 143px;
+    height: 60px;
+    display: block;
+    background: url("/static/淘宝.png") no-repeat;
+    text-indent: -999px;
+    overflow: hidden;
+}
+.personal {
+    height: 60px;
+    line-height: 60px;
+    /*background-color: #005cbf;*/
+    float: right;
+}
+.personal li {
+    float: left;
+    margin-right: 20px;
+}
+.personal img {
+    border-radius: 50%;
+    margin-right: 20px;transition: all 0.5s;
+}
+.personal img:hover{
+    transform: rotate(360deg);
+}
+
+/*底部*/
+.foot {
+    height: 320px;
+    /*background-color: #005cbf;*/
+    box-sizing: border-box;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.foot-l {
+    width: 150px;
+    float: left;
+}
+.foot-l p {
+    line-height: 24px;
+    margin: 25px 0 15px 0;
+}
+.foot-l a {
+    display: block;
+    width: 100px;
+    height: 60px;
+    line-height: 60px;
+    border: 2px solid #22b0ff;
+    color: #22b0ff;
+    text-align: center;
+    text-decoration: none;
+}
+.foot-l a:hover {
+    background-color: #22b0ff;
+    color: white;
+}
+.foot-r{
+    float: right;
+}
+.foot-r dl{
+    float: left;
+    margin-left: 135px;
+}
+.foot-r dl dt{
+    font-size: 14px;
+    color: #333;
+    height: 30px;
+}
+.foot-r dl dd{
+    height: 20px;
+}
