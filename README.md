@@ -26,4 +26,8 @@ mongod
 [数据库](https://pan.baidu.com/s/1hfQfC_cJWCCViA2xMdacoA)
 **提取码：z9gw**
 
+#导入数据库
+>**打开cmd**
+>**mongoimport -d market -c 表名 --file 数据库的位置**
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
