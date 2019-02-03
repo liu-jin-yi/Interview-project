@@ -7,20 +7,20 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 在文件根目录下安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行前端项目
 npm run dev
 
-# build for production with minification
-npm run build
+# 进入server文件目录下，安装后端依赖
+npm install
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 进入bin目录下运行www文件
+node www
 
-# run unit tests
-npm run unit
+# 启动数据库
+mongod
 
 # run e2e tests
 npm run e2e
